@@ -132,8 +132,7 @@ ul {
     grid-template-columns: repeat(4,1fr);
     gap: 25px;
     margin: 10px 0;
-    background:rgba(26, 93, 112, 0.7);
-    background: rgba(18, 21, 70, 0.7);
+    
 
 }
 
@@ -151,6 +150,9 @@ ul {
 
 }
 
+.news-div{
+    background: rgba(18, 21, 70, 0.7);
+}
 .news-cards a {
     padding: 10px 0;
     color: #f2f2f2;
