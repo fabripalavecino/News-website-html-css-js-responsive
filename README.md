@@ -1,5 +1,7 @@
 # Web News
 
+![](./download.png)
+
 a Responsive website using HTML, CSS y Javascript
 
 ### To see the project go to:
